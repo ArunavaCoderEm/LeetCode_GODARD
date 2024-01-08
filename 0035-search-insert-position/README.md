@@ -2,6 +2,10 @@
 
 <p>You must&nbsp;write an algorithm with&nbsp;<code>O(log n)</code> runtime complexity.</p>
 
+# THE SAME ALGORITHM GAVE THE FOLLOWING RESULT
+
+![Screenshot 2024-01-08 182431](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/37747810-ea7b-4be1-b57e-e66158cee40b)
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
