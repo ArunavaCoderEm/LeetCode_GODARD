@@ -6,6 +6,9 @@
 
 ![Screenshot 2024-01-08 182431](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/37747810-ea7b-4be1-b57e-e66158cee40b)
 
+# AND THIS RESULT WITH SECOND SOLUTION
+![Screenshot 2024-01-08 182754](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/6b6c3aa9-d774-435b-a856-9c46b6d98675)
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
