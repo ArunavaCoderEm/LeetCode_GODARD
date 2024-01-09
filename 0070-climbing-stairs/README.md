@@ -2,6 +2,17 @@
 
 <p>Each time you can either climb <code>1</code> or <code>2</code> steps. In how many distinct ways can you climb to the top?</p>
 
+# This Code Should Also Work But I have No Idea Why Time Limit Is Getting Exceeded Here ...
+<pre>
+class Solution(object):
+    def climbStairs(self,n):        
+        if (n == 0 or n == 1):
+            return 1
+        return self.climbStairs(n-1) + self.climbStairs(n-2)
+</pre>
+
+<p>Solved it with iteration method but recursion's not working here !</p>
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
