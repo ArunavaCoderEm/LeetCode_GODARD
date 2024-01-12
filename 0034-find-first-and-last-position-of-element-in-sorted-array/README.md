@@ -1,6 +1,11 @@
-<h2><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">34. Find First and Last Position of Element in Sorted Array</a></h2><h3>Medium</h3><hr><div><p>Given an array of integers <code>nums</code> sorted in non-decreasing order, find the starting and ending position of a given <code>target</code> value.</p>
+<h2><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">34. Find First and Last Position of Element in Sorted Array</a></h2><h3>Medium</h3><hr><div><p>Given an array of integers <code>nums</code> sorted in non-decreasing order, find the starting and ending position of a given !
 
-<p>If <code>target</code> is not found in the array, return <code>[-1, -1]</code>.</p>
+<code>target</code> value.</p>
+
+![Screenshot 2024-01-13 012143](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/d0c40838-caad-4ae9-b5f3-8755d9ee86b5)
+
+
+<code>target</code> is not found in the array, return <code>[-1, -1]</code>.</p>
 
 <p>You must&nbsp;write an algorithm with&nbsp;<code>O(log n)</code> runtime complexity.</p>
 
