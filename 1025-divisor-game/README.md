@@ -1,5 +1,8 @@
 <h2><a href="https://leetcode.com/problems/divisor-game/">1025. Divisor Game</a></h2><h3>Easy</h3><hr><div><p>Alice and Bob take turns playing a game, with Alice starting first.</p>
 
+
+![Screenshot 2024-01-13 012940](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/32f3eab9-f3e2-456e-8e0c-15a53fe2d354)
+
 <p>Initially, there is a number <code>n</code> on the chalkboard. On each player's turn, that player makes a move consisting of:</p>
 
 <ul>
