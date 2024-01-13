@@ -2,6 +2,10 @@
 
 <p>Return <code>true</code> <em>if for <strong>every</strong> index </em><code>i</code><em> in the range </em><code>0 &lt;= i &lt; n</code><em>, the digit </em><code>i</code><em> occurs </em><code>num[i]</code><em> times in </em><code>num</code><em>, otherwise return </em><code>false</code>.</p>
 
+![Screenshot 2024-01-14 011324](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/72af5c0b-ca03-41c2-ace2-3aaa14d406fd)
+
+
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
