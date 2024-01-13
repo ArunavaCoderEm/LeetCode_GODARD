@@ -2,6 +2,9 @@
 
 <p>If there are two middle nodes, return <strong>the second middle</strong> node.</p>
 
+![s](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/7a5f2264-e04b-43bb-8885-0bd9b87f0b53)
+
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/07/23/lc-midlist1.jpg" style="width: 544px; height: 65px;">
