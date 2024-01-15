@@ -2,6 +2,9 @@
 
 <p>Return <em>the maximum number you can get by changing <strong>at most</strong> one digit (</em><code>6</code><em> becomes </em><code>9</code><em>, and </em><code>9</code><em> becomes </em><code>6</code><em>)</em>.</p>
 
+![Screenshot 2024-01-15 225118](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/723c7976-6836-4e1c-af05-eb8cf13c49af)
+
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
