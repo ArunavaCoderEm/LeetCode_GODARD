@@ -3,6 +3,9 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
+![Screenshot 2024-01-15 221554](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/be769f1d-5c7e-4a95-8f82-253239e6154c)
+
+
 <pre><strong>Input:</strong> nums = [12,345,2,6,7896]
 <strong>Output:</strong> 2
 <strong>Explanation: 
