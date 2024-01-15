@@ -3,6 +3,10 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
+
+![Screenshot 2024-01-15 220412](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/a596efcb-b7ee-44f1-b90b-f883cce96032)
+
+
 <pre><strong>Input:</strong> arr = [1,2,2,6,6,6,6,7,10]
 <strong>Output:</strong> 6
 </pre>
