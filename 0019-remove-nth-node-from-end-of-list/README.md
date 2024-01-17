@@ -1,5 +1,9 @@
 <h2><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">19. Remove Nth Node From End of List</a></h2><h3>Medium</h3><hr><div><p>Given the <code>head</code> of a linked list, remove the <code>n<sup>th</sup></code> node from the end of the list and return its head.</p>
 
+
+![Screenshot 2024-01-17 160023](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/e61c6f94-baf9-4180-80b1-ac5aaa4a01e2)
+
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg" style="width: 542px; height: 222px;">
