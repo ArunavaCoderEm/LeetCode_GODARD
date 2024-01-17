@@ -1,5 +1,8 @@
 <h2><a href="https://leetcode.com/problems/rotate-list/">61. Rotate List</a></h2><h3>Medium</h3><hr><div><p>Given the <code>head</code> of a linked&nbsp;list, rotate the list to the right by <code>k</code> places.</p>
 
+![Screenshot 2024-01-17 191259](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/fc01d451-e4fe-4874-b67b-0add5aa93901)
+
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/rotate1.jpg" style="width: 450px; height: 191px;">
