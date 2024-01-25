@@ -1,0 +1,28 @@
+class Solution:
+    ## NICE PROBLEM ## DAMN NICE PROBLEM
+    def findDiagonalOrder(self, mat: List[List[int]]) -> List[int]:
+        row,col,res,up = len(mat),len(mat[0]),[],True
+        r,c = 0,0
+        while (r < row and c < col):
+            if (up):
+                while (r > 0 and c < col - 1):
+                    res.append(mat[r][c])
+                    c += 1
+                    r -= 1
+                res.append(mat[r][c])
+                if (c == col - 1):
+                    r += 1
+                else:
+                    c += 1     
+            else:   
+                while (r < row - 1 and c > 0):
+                    res.append(mat[r][c])
+                    r += 1
+                    c -= 1
+                res.append(mat[r][c])
+                if (r == row - 1):
+                    c += 1
+                else:
+                    r += 1 
+            up = not(up) 
+        return res 
