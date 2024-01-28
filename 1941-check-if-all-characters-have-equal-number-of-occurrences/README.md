@@ -2,6 +2,10 @@
 
 <p>A string <code>s</code> is <strong>good</strong> if <strong>all</strong> the characters that appear in <code>s</code> have the <strong>same</strong> number of occurrences (i.e., the same frequency).</p>
 
+![Screenshot 2024-01-28 212252](https://github.com/ArunavaCoderEm/LeetCode_GODARD/assets/121813676/b145e6cb-cd7a-4fa1-9c10-aec1feaa951e)
+
+
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
