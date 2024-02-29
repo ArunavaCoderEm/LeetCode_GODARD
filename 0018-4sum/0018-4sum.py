@@ -1,5 +1,5 @@
 class Solution:
-    ## TWO POINTERS WITH TWO CONCEPT
+    ## TWO POINTERS WITH TWO CONSTANT
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
         res = []
         nums.sort()
