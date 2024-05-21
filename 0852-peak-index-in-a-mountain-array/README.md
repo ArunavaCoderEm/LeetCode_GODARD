@@ -1,5 +1,7 @@
 <h2><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">852. Peak Index in a Mountain Array</a></h2><h3>Medium</h3><hr><div><p>An array <code>arr</code> is a <strong>mountain</strong> if the following properties hold:</p>
 
+85% beats
+
 <ul>
 	<li><code>arr.length &gt;= 3</code></li>
 	<li>There exists some <code>i</code> with <code>0 &lt; i &lt; arr.length - 1</code> such that:
