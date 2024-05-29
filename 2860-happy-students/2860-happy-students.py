@@ -1,5 +1,5 @@
 class Solution:
-    # brute force 
+    # brute force easy
     def countWays(self, nums: List[int]) -> int:
         nums.sort()
         res = 0
