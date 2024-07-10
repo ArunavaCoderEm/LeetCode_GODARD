@@ -1,11 +1,5 @@
 import random
 
-def generate_random_decimal(lower_bound, upper_bound, allow_negative=False):
-    if allow_negative and random.choice([True, False]):
-        return random.uniform(lower_bound, upper_bound) * -1
-    else:
-        return random.uniform(lower_bound, upper_bound)
-
 class Solution:
 
     def __init__(self, radius: float, x_center: float, y_center: float):
