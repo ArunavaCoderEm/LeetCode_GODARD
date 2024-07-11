@@ -9,6 +9,8 @@
 # connected component of LL
 ## Ezz approach
 
+# 5 of my pendings
+
 class Solution:
     def numComponents(self, head: Optional[ListNode], nums: List[int]) -> int:
         
